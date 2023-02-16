@@ -111,12 +111,7 @@ Text in Table.sh
 
 
 ## Question - 5
-Create a bash script that supports the following requirement.
-  - Create a folder ‘Assignment’.
-  - Create a file ‘File1.txt’ inside ‘Assignment’ Folder.
-  - Copy all the content of Table.sh(2nd script) in ‘File1.txt’ without using ‘cp’ and ‘mv’ command.
-  - Append the text Welcome to Sigmoid’ to the ‘File1.txt’ file.
-  - List all the directories and files present inside Desktop Folder.#### Apporach - 
+You have given an array. Using Bash script, print its length, maximum element and minimum element. arr=( 2 3 4 1 6 7).
 
 ### Approach - 
 
